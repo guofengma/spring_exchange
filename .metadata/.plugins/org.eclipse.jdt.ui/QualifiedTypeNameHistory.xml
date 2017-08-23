@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.http.HttpResponse"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.bean.HttpResult"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.mapper.UserMapper"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.bean.User"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.model.OrderInfo"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.util.RandomStringGenerator"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.util.Signature"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.model.OrderReturnInfo"/>
+<fullyQualifiedTypeName name="com.alibaba.fastjson.JSONObject"/>
+<fullyQualifiedTypeName name="com.thoughtworks.xstream.XStream"/>
+<fullyQualifiedTypeName name="com.thoughtworks.xstream.io.xml.XmlFriendlyNameCoder"/>
+<fullyQualifiedTypeName name="com.thoughtworks.xstream.io.xml.DomDriver"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.model.SignInfo"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.util.StreamUtil"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.mapper.ScoreMapper"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.model.Score"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.mapper.DiagnosisMapper"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.model.Diagnosis"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.model.Diagnosispage"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.mapper.RefereeMapper"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.model.Referee"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.annotations.Param"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.mapper.ShopMapper"/>
+<fullyQualifiedTypeName name="javax.websocket.server.ServerEndpoint"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="java.util.concurrent.CopyOnWriteArraySet"/>
+<fullyQualifiedTypeName name="javax.websocket.Session"/>
+<fullyQualifiedTypeName name="javax.websocket.OnClose"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="javax.websocket.OnMessage"/>
+<fullyQualifiedTypeName name="javax.websocket.OnOpen"/>
+<fullyQualifiedTypeName name="com.lxg.springboot.model.Orderpage"/>
+</qualifiedTypeNameHistroy>

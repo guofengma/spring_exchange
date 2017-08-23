@@ -1,0 +1,10 @@
+1500258605758	Copy compilation unit
+1500258610554	Delete element
+1500345036889	Encapsulate field 'password'
+1500433716146	Encapsulate field 'startDate'
+1500433720262	Encapsulate field 'endDate'
+1500444600567	Rename type 'QrcodeController'
+1500518416387	Delete element
+1500518512100	Rename type 'Diagnosispage'
+1500518814027	Encapsulate field 'page'
+1500611606953	Encapsulate field 'store'

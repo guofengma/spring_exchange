@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Diagnosispage.java&apos; to &apos;CVS/src/main/java/com.lxg.springboot.model&apos;&#x0D;&#x0A;- Original project: &apos;springboot-master&apos;&#x0D;&#x0A;- Destination element: &apos;CVS/src/main/java/com.lxg.springboot.model&apos;&#x0D;&#x0A;- Original element: &apos;com.lxg.springboot.model.Diagnosispage.java&apos;" description="Copy compilation unit" destination="=CVS/src\/main\/java&lt;com.lxg.springboot.model" element1="/src\/main\/java&lt;com.lxg.springboot.model{Diagnosispage.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1500518433671" units="1" version="1.0"/>
+</session>
